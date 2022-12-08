@@ -1,0 +1,17 @@
+
+.container {
+   position: fixed;
+   left: 50%;
+   bottom: 0%;
+   transform: translate(-50%);
+   width: 100vw;
+   height: 5rem;
+   background-color: #E0DFFE;
+
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   flex-direction: row;
+
+   font-size: 1rem;
+}
